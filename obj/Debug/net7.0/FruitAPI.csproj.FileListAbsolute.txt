@@ -36,3 +36,4 @@ C:\Users\oatakpu\Desktop\others\FruitAPI\obj\Debug\net7.0\refint\FruitAPI.dll
 C:\Users\oatakpu\Desktop\others\FruitAPI\obj\Debug\net7.0\FruitAPI.pdb
 C:\Users\oatakpu\Desktop\others\FruitAPI\obj\Debug\net7.0\FruitAPI.genruntimeconfig.cache
 C:\Users\oatakpu\Desktop\others\FruitAPI\obj\Debug\net7.0\ref\FruitAPI.dll
+C:\Users\oatakpu\Desktop\others\FruitAPI\obj\Debug\net7.0\FruitAPI.sourcelink.json
